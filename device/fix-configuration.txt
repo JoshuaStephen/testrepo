@@ -1,0 +1,6 @@
+config t 
+no ip http server
+no ip http secure-server 
+
+Note: If both http server and http secure-server are in use, then both commands are required to disable the HTTP Server feature.
+end
