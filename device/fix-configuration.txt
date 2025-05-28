@@ -1,0 +1,8 @@
+config t 
+conf t
+ap profile default-ap-profile
+no cdp
+ap profile new-ap-profile
+no cdp
+end
+end
