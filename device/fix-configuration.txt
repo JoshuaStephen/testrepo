@@ -1,0 +1,4 @@
+config t 
+no cdp 
+no cdp
+end
