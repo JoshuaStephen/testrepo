@@ -1,0 +1,6 @@
+config t 
+conf t
+ap profile <profile_name>
+  no cdp
+end
+end
